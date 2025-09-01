@@ -1,5 +1,9 @@
 # POO-2025.2-TIP4
 
+### Visão Geral do Projeto
+
+A meta central deste repositório é apresentar, de forma didática e acessível, os princípios essenciais da **Programação Orientada a Objetos (POO)**. O material foi concebido para auxiliar estudantes no aprofundamento de suas competências em POO, através de códigos e exemplos práticos em Java.
+
 ### Professor Responsável
 * Roger Moura Sarmento
 
